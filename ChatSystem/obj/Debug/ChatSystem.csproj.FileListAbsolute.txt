@@ -1,0 +1,12 @@
+C:\Users\elev\source\repos\ChatSystem\ChatSystem\bin\Debug\ChatSystem.exe.config
+C:\Users\elev\source\repos\ChatSystem\ChatSystem\bin\Debug\ChatSystem.exe
+C:\Users\elev\source\repos\ChatSystem\ChatSystem\bin\Debug\ChatSystem.pdb
+C:\Users\elev\source\repos\ChatSystem\ChatSystem\obj\Debug\ChatSystem.csprojResolveAssemblyReference.cache
+C:\Users\elev\source\repos\ChatSystem\ChatSystem\obj\Debug\ChatSystem.Form1.resources
+C:\Users\elev\source\repos\ChatSystem\ChatSystem\obj\Debug\ChatSystem.Properties.Resources.resources
+C:\Users\elev\source\repos\ChatSystem\ChatSystem\obj\Debug\ChatSystem.csproj.GenerateResource.Cache
+C:\Users\elev\source\repos\ChatSystem\ChatSystem\obj\Debug\ChatSystem.csproj.CoreCompileInputs.cache
+C:\Users\elev\source\repos\ChatSystem\ChatSystem\obj\Debug\ChatSystem.exe
+C:\Users\elev\source\repos\ChatSystem\ChatSystem\obj\Debug\ChatSystem.pdb
+C:\Users\elev\source\repos\ChatSystem\ChatSystem\obj\Debug\ChatSystem.FormName.resources
+C:\Users\elev\source\repos\ChatSystem\ChatSystem\obj\Debug\ChatSystem.FormEmoji.resources
